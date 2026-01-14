@@ -1,4 +1,4 @@
-export default [
+
     {
         title: "Anime Flow",
         summary: "Discover anime via a flowchart",
